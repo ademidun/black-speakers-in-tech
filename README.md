@@ -49,6 +49,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 ### Canada
 
+#### Tomiwa Ademidun
+
+- [@tomiwa1a](http://twitter.com/tomiwa1a)
+- Topics - Anuglar, React, Python, Django, Progressive Web Apps, Devops, Entrepreneurship
+- Location - Toronto, Canada
+
 #### Hassan Djirdeh
 
 - [@djirdehh](http://twitter.com/djirdehh)
@@ -182,6 +188,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 
 - [@tamrefrank](https://twitter.com/tamrefrank)
 - Topics - Android, Kotlin, HTML and CSS, Building Communities
+- Location - Nairobi, Kenya
+
+#### Harun Wangereka
+
+- [@wangerekaharun](https://twitter.com/wangerekaharun)
+- Topics - Android, Kotlin
 - Location - Nairobi, Kenya
 
 ### Niger
@@ -430,6 +442,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - Leadership
 - Location - San Francisco, California
 
+### Kara Carrell
+
+-  [@KaraAJC](https://twitter.com/KaraAJC)
+- Ruby/Rails, Pairing, emoji, creative learning
+- Chicago, IL
+
 #### Nyah Check
 
 - [@nyah_check](http://twitter.com/nyah_check)
@@ -501,6 +519,11 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [@chantalemmanuel](http://twitter.com/chantalemmanuel)
 - Topics - Engineering, Startup/Entrepreneurship
 - Location - Bay Area
+
+#### Wesley Faulkner
+- [@wesley83](https://twitter.com/wesley83)
+- Topics - MongoDB, Soft Skills
+- Location - Austin, TX, USA
 
 #### Den Fran
 
@@ -865,10 +888,22 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Topics - VR, Product
 - Location - San Francisco, California
 
+#### Tiffany Thompson
+
+- [@tiffalwaysfly](http://twitter.com/tiffalwaysfly)
+- Topics - Job search for Junior Devs, Coding Bootcamp, My Tech Journey
+- Location - Dallas, Texas
+
 #### Andrew Usher
 
 - Topics - Front-end Web
 - Location - Memphis, Tennessee
+
+#### Brittany Walker
+
+- [@musicalwebdev](http://twitter.com/musicalwebdev)
+- Topics - Web Development, HTML, CSS, JavaScript, Vue.js, Open Source, Side Projects, Transitioning Careers into Tech
+- Location - Washington, DC
 
 #### Tara Walker
 
